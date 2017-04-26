@@ -1,6 +1,6 @@
 # npmdoc-asterisk-manager
 
-#### api documentation for  [asterisk-manager (v0.1.15)](https://github.com/pipobscure/NodeJS-AsteriskManager)  [![npm package](https://img.shields.io/npm/v/npmdoc-asterisk-manager.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-asterisk-manager) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-asterisk-manager.svg)](https://travis-ci.org/npmdoc/node-npmdoc-asterisk-manager)
+#### basic api documentation for  [asterisk-manager (v0.1.15)](https://github.com/pipobscure/NodeJS-AsteriskManager)  [![npm package](https://img.shields.io/npm/v/npmdoc-asterisk-manager.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-asterisk-manager) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-asterisk-manager.svg)](https://travis-ci.org/npmdoc/node-npmdoc-asterisk-manager)
 
 #### A node.js module for interacting with the Asterisk Manager API.
 
@@ -57,7 +57,8 @@
         "type": "git",
         "url": "git+https://github.com/pipobscure/NodeJS-AsteriskManager.git"
     },
-    "version": "0.1.15"
+    "version": "0.1.15",
+    "bin": {}
 }
 ```
 
